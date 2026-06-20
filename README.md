@@ -70,7 +70,60 @@ Enter your choice (1-4): 1
 
 Result: 10 + 5 = 15
 ```
+# Password Generator
+
+## Overview
+
+A Python application that generates secure and random passwords based on user-defined length.
+
+## Features
+
+- Generate strong random passwords
+- User-defined password length
+- Includes:
+  - Uppercase letters
+  - Lowercase letters
+  - Numbers
+  - Special characters
+- Input validation
+- Simple command-line interface
+
+## Technologies Used
+
+- Python
+- Random Module
+- String Module
+
+## How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/Password-Generator.git
+```
+
+2. Navigate to project directory
+
+```bash
+cd Password-Generator
+```
+
+3. Run the application
+
+```bash
+python password_generator.py
+```
+
+## Sample Output
+
+```text
+========================================
+     STRONG PASSWORD GENERATOR
+========================================
+
+Enter desired password length: 12
+
+Generated Strong Password:
+@K8m#2Lp$Qx7
 
 
-
-Kavya Jogdand
